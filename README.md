@@ -1,1 +1,17 @@
 # STEP-SEM3-WEEK1-ASSIGNMENT
+
+## Submitted By
+
+Rehan Shaikh
+
+## Language
+
+Java
+
+## Problems
+
+1. Duplicate Seat Checker
+2. Typing Accuracy Checker
+3. Traffic Signal Streak Analyzer
+4. Warehouse Inventory Balancer
+5. Movie Review Word Length Profiler
