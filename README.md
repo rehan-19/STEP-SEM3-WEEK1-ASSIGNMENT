@@ -10,6 +10,8 @@ Java
 
 ## Problems
 
+WEEK1:
+
 1. Duplicate Seat Checker
 2. Typing Accuracy Checker
 3. Traffic Signal Streak Analyzer
